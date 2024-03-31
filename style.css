@@ -4,6 +4,10 @@
     display: flex;
     justify-content: aspace-around;
 }
+
+.lista{
+    display: inline-block;
+}
     .cabeçalho-imagem{
-        width: 10%;
+        width: 20%;
     }
