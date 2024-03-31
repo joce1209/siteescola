@@ -3,6 +3,8 @@
     color: antiquewhite;
     display: flex;
     justify-content: aspace-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .lista{
@@ -12,4 +14,8 @@
 
     .cabeçalho-imagem{
         width: 20%;
+    }
+    *{ 
+        margin:  0;
+        padding: 0;
     }
