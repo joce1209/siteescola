@@ -1,6 +1,7 @@
-header{
+.cabeçalho-itens{
     background-color: blue;
     color: antiquewhite;
+    display: flex;
 }
     .cabeçalho-imagem{
         width: 10%;
