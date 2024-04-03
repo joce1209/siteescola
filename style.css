@@ -1,22 +1,23 @@
-.cabeçalho-itens{
-    background-color: blue;
-    color: antiquewhite;
-    display: flex;
-    justify-content: aspace-around;
-    align-items: center;
-    padding: 24px 0;
+* {
+    margin: 0;
+padding: 0;
 }
 
-.lista{
-    display: inline-block;
-    margin: 0 16px;
-    font-size :  24 px;
+
+.cabeçalho-itens{
+    background-color: blue;
+    color: white;
+    display: flex;
+  justify-content:space-around
+   aling-itens:center
+   padding: 24px;
 }
 
     .cabeçalho-imagem{
         width: 20%;
     }
-    *{ 
-        margin:  0;
-        padding: 0;
+    .itens{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 24px;
     }
